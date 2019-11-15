@@ -1,4 +1,4 @@
-# Welcome to the lemon-pond.
+# Welcome to the lemonpond.
 
 This is a collection of my personal LilyPond files. 
 
