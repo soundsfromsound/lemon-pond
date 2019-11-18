@@ -1,3 +1,4 @@
+% Add padding between the tempo / metronome mark and the first system (top)
 % \override Score.MetronomeMark.padding = #6
 
 \version "2.19.80"
