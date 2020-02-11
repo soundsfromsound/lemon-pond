@@ -1,7 +1,9 @@
 <frescobaldi-theme name="Lemon-Solarized">
   <!--
   Created by Frescobaldi 3.1.1.
--->
+  @soundsfromsound 
+  https://soundsfromsound.com
+  -->
   <font fontFamily="Liberation Mono" fontSize="14.0" />
   <baseColors>
     <musichighlight color="#f50000" />
