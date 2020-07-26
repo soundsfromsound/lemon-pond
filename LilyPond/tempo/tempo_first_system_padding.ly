@@ -1,5 +1,17 @@
-% Add padding between the tempo / metronome mark and the first system (top)
-% \override Score.MetronomeMark.padding = #6
+%{ 
+
+THE SNIPPET:
+
+\override Score.MetronomeMark.padding = #6
+
+WHAT IT DOES:
+
+Add padding between the tempo / metronome mark and the first system (top)
+
+
+%}
+
+%% ------ EXAMPLE ------
 
 \version "2.19.80"
 
