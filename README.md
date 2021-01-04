@@ -8,6 +8,6 @@ Including:
 * Templates
 * House Styles / Style Sheets
 
-(If you're looking for my Solarized LilyPond color theme, it's located here in the pond: **Frescobaldi**.)
+(If you're looking for my Solarized LilyPond color theme, it's located here in the pond: in **Frescobaldi**.)
 
 ![](http://bit.ly/2FHKRyP)
