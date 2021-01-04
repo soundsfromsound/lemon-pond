@@ -1,4 +1,4 @@
-# ARCHIVE
+# Archive
 
 This is my archive of personal LilyPond code snippets and functions. 
 
