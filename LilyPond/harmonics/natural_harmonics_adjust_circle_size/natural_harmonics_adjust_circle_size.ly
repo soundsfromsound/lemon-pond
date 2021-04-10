@@ -6,6 +6,8 @@
 
 }
 
+% edit the acons 'font-size -3 value to adjust the size of the circle, then use \Fsize
+
 Fsize = #(let ((m (make-music 'ArticulationEvent
                     'articulation-type "flageolet")))
            (set! (ly:music-property m 'tweaks)
