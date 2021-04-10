@@ -10,4 +10,4 @@ Including:
 
 (If you're looking for my Solarized LilyPond color theme, it's located here in the pond: in **Frescobaldi**.)
 
-![](http://bit.ly/2FHKRyP)
+![](https://raw.githubusercontent.com/soundsfromsound/lemon-pond/master/Frescobaldi/lemon_solarized_theme/lemon_solarized_theme_screenshot.png)
