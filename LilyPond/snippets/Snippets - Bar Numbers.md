@@ -17,11 +17,10 @@
 \layout {
   \context {
     \Score
-    barNumberVisibility = #(every-nth-bar-number-visible 10)
-    % \override BarNumber.break-visibility = #all-visible
-    % \override BarNumber.font-size = #1
-    % \override BarNumber.Y-offset = -2.0
-    % \override BarNumber.extra-offset = #'( 0.0 . 22.0)
+    \override BarNumber.break-visibility = #all-visible
+    \override BarNumber.font-size = #1
+    \override BarNumber.Y-offset = -2.0
+    \override BarNumber.extra-offset = #'( 0.0 . 12.0)
   }
 }
 ```
