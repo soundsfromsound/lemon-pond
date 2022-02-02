@@ -48,3 +48,10 @@ music = \relative c'
   ragged-right = ##t
   indent = 0
 }
+
+\layout {
+    \context {
+        \Score
+        \omit BarNumber
+    }
+}
