@@ -1,6 +1,11 @@
-# Frescobaldi (LilyPond)
-Here are my Frescobaldi configuration files and XML snippets. Updated 9/2023.
+# 🎼 Frescobaldi (LilyPond)
 
-* http://lilypond.org/
-* http://www.frescobaldi.org/index.html
+Personal configuration files and XML snippets for [Frescobaldi](http://www.frescobaldi.org/index.html) - the score editor for [LilyPond](http://lilypond.org/). 
 
+Last updated 5-2026.
+
+<br>
+<br>
+<br>
+
+> *Once in a while you get shown the light in the strangest of places if you look at it right.*
