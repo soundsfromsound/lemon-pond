@@ -1,17 +1,17 @@
-# Welcome to the lemonpond.
+# Welcome to the lemonpond. 🎼
 
-This is a collection of my personal LilyPond files.
+A collection of my personal LilyPond files, including:
 
-Including:
-* Code Snippets
-* Frescobaldi Configurations / Color Themes
-* Templates
-* House Styles / Style Sheets
+- Code Snippets
+- Frescobaldi Configurations & Color Themes
+- Templates
+- House Styles / Style Sheets
 
-I will be uploading two versions of snippets: 
+Snippets will be available in two formats: **XML** (importable directly into Frescobaldi) 
+and **plain text LilyPond syntax** for general reference.
 
-XML snippets (for you to import into Frescobaldi and use in your scores), and plain LilyPond syntax snippets for general reference.
-If you're looking for my Solarized LilyPond color theme, it's located here in the **Frescobaldi** directory.
+---
 
+Looking for my Solarized color theme? You'll find it in the **Frescobaldi** directory.
 
-<img width="712" alt="Lemon_Frescobaldi_Solarized_Theme_v6 0_052425" src="https://github.com/user-attachments/assets/22655f2f-424b-4c50-9ee2-d575cbc3c1de" />
+<img width="712" alt="Lemon_Frescobaldi_Solarized_Theme_v6.0" src="https://github.com/user-attachments/assets/22655f2f-424b-4c50-9ee2-d575cbc3c1de" />
